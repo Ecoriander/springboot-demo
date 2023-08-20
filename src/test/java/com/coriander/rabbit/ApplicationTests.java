@@ -76,8 +76,8 @@ public class ApplicationTests {
 
             Message message = new Message(
                     uniqueId,
-                    "exchange-3",
-                    "springboot3.abc",
+                    "exchange-4",
+                    "springboot4.abc",
                     attributes,
                     0);
             message.setMessageType(MessageType.RELIANT);
